@@ -1,6 +1,6 @@
 # Household and Vehicle Emission Analysis
 
-This repository contains the code and potentially data used to analyze household and vehicle emissions based on the National Household Travel Survey (NHTS) data. The analysis involves calculating gasoline and upstream emissions for conventional vehicles and upstream emissions for electric vehicles (EVs), then aggregating these emissions at the household level.
+This repository contains the code and potentially data used to analyze household and vehicle emissions based on the National Household Travel Survey (NHTS) data. The analysis involves calculating gasoline and upstream emissions for conventional vehicles and upstream emissions for electric vehicles (EVs), then aggregating these emissions at the household level. The current emission file can be used to estimate current emissions while EV emission file can be used to calculate BEV emissions for current electrivity generation accross states.
 
 ## Project Description
 
